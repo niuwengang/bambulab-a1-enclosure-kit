@@ -40,7 +40,7 @@
       <img src="pic1.jpg" alt="效果示意图" style="width: 100%; max-width: 300px; height: auto; display: block; margin: 0 auto;">
     </td>
     <td style="width:50%; text-align: center; vertical-align: top; border: none; padding: 5px;">
-      <img src="pic2.gif" alt="效果示意图" style="width: 100%; max-width: 300px; height: auto; display: block; margin: 0 auto;">
+      <img src="pic2.gif" alt="效果示意图" style="width: 200%; max-width: 300px; height: auto; display: block; margin: 0 auto;">
     </td>
   </tr>
 </table>
