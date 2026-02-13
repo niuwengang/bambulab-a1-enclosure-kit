@@ -34,14 +34,16 @@
 5. **功能调试**: 测试通风系统和监控设备
 
 ## 效果展示
-<div style="display: flex; justify-content: space-around;">
-  <div style="flex: 50%; padding: 5px;">
-    <img src="pic1.jpg" alt="效果示意图" style="width: 50%; height: auto;"/>
-  </div>
-  <div style="flex: 50%; padding: 5px;">
-    <img src="pic2.gif" alt="效果示意图" style="width: 50%; height: auto;"/>
-  </div>
-</div>
+<table style="width:100%; border: none;">
+  <tr style="border: none;">
+    <td style="width:50%; text-align: center; vertical-align: top; border: none; padding: 5px;">
+      <img src="pic1.jpg" alt="效果示意图" style="width: 100%; max-width: 300px; height: auto; display: block; margin: 0 auto;">
+    </td>
+    <td style="width:50%; text-align: center; vertical-align: top; border: none; padding: 5px;">
+      <img src="pic2.gif" alt="效果示意图" style="width: 100%; max-width: 300px; height: auto; display: block; margin: 0 auto;">
+    </td>
+  </tr>
+</table>
 
 ## 注意事项
 - 组装前请仔细核对所有零件
