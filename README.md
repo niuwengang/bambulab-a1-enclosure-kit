@@ -36,10 +36,10 @@
 ## 效果展示
 <div style="display: flex; justify-content: space-around;">
   <div style="flex: 50%; padding: 5px;">
-    <img src="pic1.jpg" alt="效果示意图" style="width: 100%; height: auto;"/>
+    <img src="pic1.jpg" alt="效果示意图" style="width: 50%; height: auto;"/>
   </div>
   <div style="flex: 50%; padding: 5px;">
-    <img src="pic2.gif" alt="效果示意图" style="width: 100%; height: auto;"/>
+    <img src="pic2.gif" alt="效果示意图" style="width: 50%; height: auto;"/>
   </div>
 </div>
 
