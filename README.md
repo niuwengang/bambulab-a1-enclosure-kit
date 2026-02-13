@@ -16,7 +16,7 @@
 | 弹珠螺母 | 若干 | 欧标-20型M5 | ¥1.9(10个装) | [购买链接](https://item.taobao.com/item.htm?id=817198046752&mi_id=0000RjABuYusmIBUuFkI7gOuvIWb-y1om0okfYYfl8Bk0RA&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 | 可调速排气风扇 | 1 | 75mm | ¥77 | [购买链接](https://item.taobao.com/item.htm?id=666163117000&mi_id=0000x6egclDT0cTcyFGNZ6RIVNJu_zYbfYw16u1Ms5YnzY0&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 | 铝箔排气管 | 1 | 1.5m长 75mm内径 | ¥9.6 | [购买链接](https://item.taobao.com/item.htm?id=663151281509&mi_id=0000LWiGUTW2gOGOt1Z-jMPBxZ1g9Z10kQGum1m3xztgYns&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
-
+| 迷你温度湿度计 | 1 | --- | ¥3.99 | [购买链接](https://item.taobao.com/item.htm?id=986103574539&mi_id=00007pAwpmDgOUc3v29ltoNx2gH7rdd_19IcT4cdEyquleg&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1&skuId=5950439433767) |
 
 ## 效果展示
 ![效果示意图](pic1.jpg)
