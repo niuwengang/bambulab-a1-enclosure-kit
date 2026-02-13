@@ -20,6 +20,7 @@
 | 胡桃木板 | 1 | 500mmx560mm  | ¥51 | [购买链接](https://detail.tmall.com/item.htm?id=862889574219&mi_id=00003j3_u3QjWIxqbhEiWRF7mZoyYubGRvzObo8ckmKoWPI&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 | 亚克力板 | 7 | CAD图定制  | ¥95 | [购买链接](https://item.taobao.com/item.htm?id=651631113540&mi_id=0000fu2KU7kW6CBXDvRVkwf0vqCLs09LhzQSTG-AI_W8N-8&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 | 铝箔胶带 | 1 | 普通  | ¥7.85 | [购买链接](https://detail.tmall.com/item.htm?id=629675739669&mi_id=0000spK09z7P9j6S6NRyRsvGT4yH9GLDD2DMSWnWEBkJFUU&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
+| 铝型材 | 12 | 定制  | ¥75 | [购买链接](https://www.jlcfa.com/search?q=2020&t=1761567953960&spm=fa-pc.homepage.search) |
 ## 效果展示
 ![效果示意图](pic1.jpg)
 
