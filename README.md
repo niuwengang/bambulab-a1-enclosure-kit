@@ -12,7 +12,7 @@
 | 材料 | 数量 | 规格 | 价格 | 链接 | 
 |------|------|------|------|------|
 | 铝合金把手 | 2 | 2020型 90mm | ¥1.4 | [购买链接](https://item.taobao.com/item.htm?id=846974307042&mi_id=0000YU2LqFPyJ42caAGfWLdDwvU9GGCmnAypC6gsDCPaj2M&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
-| 铝合金把手 | 4 | 2020型 长孔距20*40 | ¥0.9 | [购买链接](https://item.taobao.com/item.htm?id=923896757346&mi_id=0000G-rZWJ4Jkgp8MYQmS4SgunJdW0O6iKIR4QCbxuq2jjc&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
+| 铝合铰链 | 4 | 2020型 长孔距20*40 | ¥0.9 | [购买链接](https://item.taobao.com/item.htm?id=923896757346&mi_id=0000G-rZWJ4Jkgp8MYQmS4SgunJdW0O6iKIR4QCbxuq2jjc&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 
 
 
