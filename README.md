@@ -9,17 +9,11 @@
 
 ## 材料清单
 
-| 材料 | 数量 | 规格 | 价格 | 链接 |
+| 材料 | 数量 | 规格 | 价格 | 链接 | 
 |------|------|------|------|------|
-| 铝合金把手 | 2个 | 2020 90mm | ¥1.5 | [购买链接](https://item.taobao.com/item.htm?id=846974307042&mi_id=0000YU2LqFPyJ42caAGfWLdDwvU9GGCmnAypC6gsDCPaj2M&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
-| 外置角码 | 16个 | 标准L型 | ¥XX.XX | [购买链接](https://example.com) |
-| 亚克力板 (3mm厚) | 6张 | 定制尺寸 | ¥XX.XX | [购买链接](https://example.com) |
-| 排风扇 (12cm) | 2个 | 直流12V | ¥XX.XX | [购买链接](https://example.com) |
-| 铝箔管 (10cm直径) | 1根 | 长度1米 | ¥XX.XX | [购买链接](https://example.com) |
-| 胡桃木板 (装饰用) | 4张 | 装饰条 | ¥XX.XX | [购买链接](https://example.com) |
-| 磁吸门扣 | 2个 | 标准规格 | ¥XX.XX | [购买链接](https://example.com) |
-| 防滑脚垫 | 4个 | 标准规格 | ¥XX.XX | [购买链接](https://example.com) |
-| 内置照明 | 1套 | LED灯带 | ¥XX.XX | [购买链接](https://example.com) |
+| 铝合金把手 | 2 | 2020型 90mm | ¥1.4 | [购买链接](https://item.taobao.com/item.htm?id=846974307042&mi_id=0000YU2LqFPyJ42caAGfWLdDwvU9GGCmnAypC6gsDCPaj2M&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
+| 铝合金把手 | 4 | 2020型 长孔距20*40 | ¥0.9 | [购买链接](https://item.taobao.com/item.htm?id=923896757346&mi_id=0000G-rZWJ4Jkgp8MYQmS4SgunJdW0O6iKIR4QCbxuq2jjc&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
+
 
 
 
