@@ -11,7 +11,7 @@
 
 | 材料 | 数量 | 规格 | 价格 | 链接 |
 |------|------|------|------|------|
-| 门把手 | 2个 | 标准尺寸 | ¥XX.XX | [购买链接](https://example.com) |
+| 铝合金把手 | 2个 | 2020 90mm | ¥1.5 | [购买链接](https://item.taobao.com/item.htm?id=846974307042&mi_id=0000YU2LqFPyJ42caAGfWLdDwvU9GGCmnAypC6gsDCPaj2M&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 | 外置角码 | 16个 | 标准L型 | ¥XX.XX | [购买链接](https://example.com) |
 | 亚克力板 (3mm厚) | 6张 | 定制尺寸 | ¥XX.XX | [购买链接](https://example.com) |
 | 排风扇 (12cm) | 2个 | 直流12V | ¥XX.XX | [购买链接](https://example.com) |
