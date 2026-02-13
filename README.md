@@ -39,7 +39,7 @@
     <img src="pic1.jpg" alt="效果示意图" style="width: 100%; height: auto;"/>
   </div>
   <div style="flex: 50%; padding: 5px;">
-    <img src="pic2.jpg" alt="效果示意图" style="width: 100%; height: auto;"/>
+    <img src="pic2.gif" alt="效果示意图" style="width: 100%; height: auto;"/>
   </div>
 </div>
 
