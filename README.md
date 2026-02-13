@@ -18,7 +18,7 @@
 | 5 | 铝箔排气管 | 1 | 1.5m长 75mm内径 | ¥9.6 | [购买链接](https://item.taobao.com/item.htm?id=663151281509&mi_id=0000LWiGUTW2gOGOt1Z-jMPBxZ1g9Z10kQGum1m3xztgYns&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 | 6 | 数显温湿度计 | 1 | 普通 | ¥3.99 | [购买链接](https://item.taobao.com/item.htm?id=986103574539&mi_id=00007pAwpmDgOUc3v29ltoNx2gH7rdd_19IcT4cdEyquleg&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1&skuId=5950439433767) |
 | 7 | 胡桃木装饰板 | 1 | 500mm×560mm | ¥51 | [购买链接](https://detail.tmall.com/item.htm?id=862889574219&mi_id=00003j3_u3QjWIxqbhEiWRF7mZoyYubGRvzObo8ckmKoWPI&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
-| 8 | 透明亚克力板 | 1套 | [CAD图定制](亚克力板.zip) 2mm厚 | ¥95 | [购买链接](https://item.taobao.com/item.htm?id=651631113540&mi_id=0000fu2KU7kW6CBXDvRVkwf0vqCLs09LhzQSTG-AI_W8N-8&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
+| 8 | 透明亚克力板 | 1套 | [CAD图定制](亚克力板CAD.zip) 2mm厚 | ¥95 | [购买链接](https://item.taobao.com/item.htm?id=651631113540&mi_id=0000fu2KU7kW6CBXDvRVkwf0vqCLs09LhzQSTG-AI_W8N-8&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 | 9 | 铝箔胶带 | 1 | 5cm宽 防火型 | ¥7.85 | [购买链接](https://detail.tmall.com/item.htm?id=629675739669&mi_id=0000spK09z7P9j6S6NRyRsvGT4yH9GLDD2DMSWnWEBkJFUU&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 | 10 | 2020铝型材 | 1套 | 500mmx8 520mmx4 | ¥75 | [购买链接](https://www.jlcfa.com/search?q=2020&t=1761567953960&spm=fa-pc.homepage.search) |
 | 11 | 外置角码 | 30个 | 欧标2020 | ¥1.42 | [购买链接](https://www.jlcfa.com/search?q=2020&t=1761567953960&spm=fa-pc.homepage.search) |
