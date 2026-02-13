@@ -14,7 +14,8 @@
 | 铝合金把手 | 2 | 2020型 90mm | ¥2.85 | [购买链接](https://item.taobao.com/item.htm?id=846974307042&mi_id=0000YU2LqFPyJ42caAGfWLdDwvU9GGCmnAypC6gsDCPaj2M&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 | 铝合铰链 | 4 | 2020型 长孔距20*40 | ¥3.6 | [购买链接](https://item.taobao.com/item.htm?id=923896757346&mi_id=0000G-rZWJ4Jkgp8MYQmS4SgunJdW0O6iKIR4QCbxuq2jjc&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 | 弹珠螺母 | 若干 | 欧标-20型M5 | ¥1.9(10个装) | [购买链接](https://item.taobao.com/item.htm?id=817198046752&mi_id=0000RjABuYusmIBUuFkI7gOuvIWb-y1om0okfYYfl8Bk0RA&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
-| 排气风扇 | 1 | 75mm | ¥82 | [购买链接](https://item.taobao.com/item.htm?id=666163117000&mi_id=0000x6egclDT0cTcyFGNZ6RIVNJu_zYbfYw16u1Ms5YnzY0&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
+| 可调速排气风扇 | 1 | 75mm | ¥77 | [购买链接](https://item.taobao.com/item.htm?id=666163117000&mi_id=0000x6egclDT0cTcyFGNZ6RIVNJu_zYbfYw16u1Ms5YnzY0&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
+| 铝箔排气管 | 1 | 1.5m长 75mm内径 | ¥9.6 | [购买链接](https://item.taobao.com/item.htm?id=663151281509&mi_id=0000LWiGUTW2gOGOt1Z-jMPBxZ1g9Z10kQGum1m3xztgYns&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 
 
 ## 效果展示
