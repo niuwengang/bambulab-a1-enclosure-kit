@@ -18,7 +18,7 @@
 | 铝箔排气管 | 1 | 1.5m长 75mm内径 | ¥9.6 | [购买链接](https://item.taobao.com/item.htm?id=663151281509&mi_id=0000LWiGUTW2gOGOt1Z-jMPBxZ1g9Z10kQGum1m3xztgYns&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 | 迷你温度湿度计 | 1 |   | ¥3.99 | [购买链接](https://item.taobao.com/item.htm?id=986103574539&mi_id=00007pAwpmDgOUc3v29ltoNx2gH7rdd_19IcT4cdEyquleg&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1&skuId=5950439433767) |
 | 胡桃木板 | 1 | 500mmx560mm  | ¥51 | [购买链接](https://detail.tmall.com/item.htm?id=862889574219&mi_id=00003j3_u3QjWIxqbhEiWRF7mZoyYubGRvzObo8ckmKoWPI&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
-
+| 亚克力板 | 7 | CAD图定制  | ¥95 | [购买链接](https://item.taobao.com/item.htm?id=651631113540&mi_id=0000fu2KU7kW6CBXDvRVkwf0vqCLs09LhzQSTG-AI_W8N-8&spm=tbpc.boughtlist.suborder_itemtitle.1.beba2e8dYDU0v1) |
 ## 效果展示
 ![效果示意图](pic1.jpg)
 
