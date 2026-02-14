@@ -23,6 +23,9 @@
 | 10 | 2020铝型材 | 1套 | 500mmx8 520mmx4 | ¥75 | [购买链接](https://www.jlcfa.com/search?q=2020&t=1761567953960&spm=fa-pc.homepage.search) |
 | 11 | 外置角码 | 30个 | 欧标2020 | ¥1.42 | [购买链接](https://www.jlcfa.com/search?q=2020&t=1761567953960&spm=fa-pc.homepage.search) |
 | 12 | 小米智能插座 | 1 | 普通 | ¥59 | [购买链接](https://detail.tmall.com/item.htm?abbucket=20&id=680895260729&mi_id=00007QYeYJ7O3UJ7b-2ByRCl61UiEzOg54KJh_MP-tFoHLA&ns=1&skuId=4878780740498&spm=a21n57.1.hoverItem.2&utparam=%7B%22aplus_abtest%22%3A%22399cf3bd3f602de9781ca9d8c8f02ac5%22%7D&xxc=taobaoSearch) |
+| 13 | tplink监控摄像头 | 1 | 普通 | ¥111 | [购买链接](https://detail.tmall.com/item.htm?abbucket=20&id=607386928055&mi_id=0000UfNUmrFKok0v6XufiXLdi2TPIV8S_Ax0ylxdT2siWb0&ns=1&priceTId=2150408d17710389240605587e130b&skuId=5972181477206&spm=a21n57.1.hoverItem.2&utparam=%7B%22aplus_abtest%22%3A%2251d79e6180906e222fcc6081ed477b0d%22%7D&xxc=taobaoSearch) |
+
+
 
 ## 安装指南
 1. **框架搭建**: 使用铝型材和弹珠螺母构建主体框架
